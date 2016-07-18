@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel-example": "babel example-demo.js",
-    "import-demo": "webpack;echo '### About to run dist/import-demo.js'; node dist/import-demo.js"
+    "import-demo": "webpack;echo '\\n### About to run dist/import-demo.js\\n'; node dist/import-demo.js"
   },
   "repository": {
     "type": "git",
