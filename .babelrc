@@ -1,3 +1,4 @@
 {
-    "plugins": ["./example-plugin.js"]
+    "plugins": ["./example-plugin.js"],
+    "presets": ["es2015"]
 }
