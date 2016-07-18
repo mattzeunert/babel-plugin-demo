@@ -1,4 +1,4 @@
 {
-    "plugins": ["./example-plugin.js"],
+    "plugins": ["./example-plugin.js", "./root-import-plugin.js"],
     "presets": ["es2015"]
 }
